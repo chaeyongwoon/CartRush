@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Product
+  - EndingBlock
+  - Enemy
+  - CrushBlock
+  - FinishBlock
+  - GoalCart
+  - GoalBlock
+  - Coin
+  - CPI_Stop_Block
+  - Cart
+  - Changer
+  - Adder
+  - EndingCart
+  - Boost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Product
+  - EndingCart
+  - ColEndingCart
+  - Player
+  - NonCol
+  - Enemy
+  - OverUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
